@@ -117,6 +117,6 @@ void buscarElemento()
 		}
 	}
 	if (!achou) {
-		cout << "Numero nao encontrado!";
+		cout << "Numero nao encontrado! ";
 	}
 }
